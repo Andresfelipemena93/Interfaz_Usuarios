@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700&display=swap');
+
+
+.forgot{
+    color: #fff;
+}
+.recovery{
+    color:rgb(117, 7, 7);
+}
+
+.newre{
+    color: rgb(255, 255, 255);
+}
+
+
+.titulo{
+    
+    color: rgb(255, 255, 255);
+    font-weight: 100;
+    font-family: 'Roboto', sans-serif;
+
+}
+.titulo-1{
+    
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+
+}
+
+
+.widget-box{
+    height: 50%;
+}
+.btn-primary2{
+    color: rgb(62, 62, 63);
+    
+}
+
+.widget-body{
+    border-radius: 15%;
+}
